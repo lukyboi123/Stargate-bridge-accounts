@@ -16,8 +16,9 @@ Script will loop through wallet and transfer ETH or USDC from the network with f
 ```commandline
     pip install -r requirements.txt
 ```
-4a. Fund your wallets with ETH on arbitrum or optimism if you want to bridget ETH  
-4b. Fund your wallets with USDC on fantom or polygon and a bit of matic/fantom for commission if you want to bridge USDC.
+4. Fund your wallets with ETH on arbitrum or optimism if you want to bridget ETH 
+### OR
+4. Fund your wallets with USDC on fantom or polygon and a bit of matic/fantom for commission if you want to bridge USDC.
 5. Create a keys.txt file with private keys following the example of keys.example.txt
 ---
 ## Usage ##
